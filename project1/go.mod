@@ -1,3 +1,3 @@
-module github.com/Anurag690/go-projects/project1
+module github.com/Anurag690/go-projects
 
 go 1.14
